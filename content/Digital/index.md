@@ -5,8 +5,8 @@ url: /
 menu:
   main:
     weight: 1
-    identifier: Canon
-    title: Canon
+    identifier: Digital
+    title: Digital
 unifiedAlt: 
 _build:
   publishResources: false

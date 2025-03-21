@@ -1,12 +1,12 @@
 ---
 type: _default
 layout: single
-url: /yashica/
+url: /120/
 menu:
   main:
     weight: 3
-    identifier: Yashica
-    title: Yashica
+    identifier: 120
+    title: 120
 unifiedAlt:
 _build:
   publishResources: false
